@@ -1,5 +1,8 @@
 #!/usr/local/bin/perl -w
 
+# Valerie Parham-Thompson 2013-2016 for sharing
+# keep it open and free
+
 use strict;
 use DBI();
 no warnings 'uninitialized'; #avoid issues with null columns
