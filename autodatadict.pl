@@ -3,7 +3,7 @@
 # Valerie Parham-Thompson 2013-2016 for sharing
 # keep it open and free
 
-# todo: efficienciy
+# todo: efficiency
 # todo: don't block on large, busy datasets
 
 use strict;
